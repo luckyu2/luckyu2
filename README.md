@@ -2,7 +2,7 @@ I love to talk on trending ⚡ technology ⚡, Connect with me here -
 
 
 
-- 🏢 I'm currently working at **Worklife**
+- 🏢 I'm currently working at **Worklife**：Working career in Internet of Things company
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
