@@ -23,13 +23,19 @@ I love to talk on trending ⚡ technology ⚡, Connect with me here -
 
 ## 愿lucky常伴你左右 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="52" /> 
 
-### 自我介绍
+### About
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
 - 大家好我是Yu，现居武汉
 - 目前是一名Web前端开发
 - 欢迎光临我的Github 🍧
+<br>
+
+### Blog
+[前往我的博客](https://blog.metyu.eu.org/)
+
+<br>
 
 ### 技术栈
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
@@ -42,8 +48,7 @@ I love to talk on trending ⚡ technology ⚡, Connect with me here -
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 
-#### 博客主页
-[我的博客](https://blog.metyu.eu.org/)
+
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);我是Yu，祝你拥有美好的一天!&center=true&size=27"> </a> </h1>
 
