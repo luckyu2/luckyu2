@@ -27,7 +27,7 @@ I love to talk on trending ⚡ technology ⚡, Connect with me here -
 
 <div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
-- 大家好我是Yu，现居武汉
+- 大家好我是Yu
 - 目前是一名Web前端开发
 - 欢迎光临我的Github 🍧
 <br>
